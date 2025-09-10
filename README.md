@@ -18,7 +18,8 @@ The LIMIT-GRAPH Diagnostic Module provides comprehensive evaluation of multiling
 - **Structure Sensitivity**: Measures response to content reorganization
 - **Repetition Robustness**: Assesses handling of repeated content
 
-## Architecture### Core Components
+## Architecture
+### Core Components
 
 1. **Similarity Evaluator** (`evaluate_similarity.py`)
    - Multilingual needle-question pair generation
